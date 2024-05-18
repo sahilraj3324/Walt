@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+body {
+  background-color: #040D12 ;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(99deg,   #000000  0%, #06113C  100%);
+  
+ ;
+}
+
+nav {
+  z-index:10001 !important
+}
+.bgimg{
+    background-image: url(../src/assets/bg.jpg)
+}
+.gradientBg{
+  background: linear-gradient(99deg,   #040D12  0%, #001C30  100%);
+}
+.gradientBg{
+  background: linear-gradient(99deg,   #001C30  0%, #040D12  100%);
+}
+
+.gBg{
+  background: linear-gradient(99deg,   #1640D6  0%, #ED5AB3  100%);
+}
+
+.btnprimary {
+  
+}
